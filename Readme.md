@@ -1,7 +1,5 @@
 # One-Day Intensive Go Basics
 
-## Morning Session (3 hours)
-
 ### 1. Setting Up (30 minutes)
 
 - **Install Go:** Follow the official [Go installation guide](https://golang.org/doc/install).
@@ -19,8 +17,6 @@
 - **Conditionals and Loops:**
   - Explore `if`, `else`, `switch`, `for`, and `range`.
   - Write small programs to solidify your understanding of flow control.
-
-## Midday Session (2 hours)
 
 ### 4. Functions and Packages (1 hour)
 
@@ -40,8 +36,6 @@
 - **Practice:**
   - Implement a small project that uses structs, slices, and maps.
 
-## Afternoon Session (3 hours)
-
 ### 6. Methods and Interfaces (1 hour)
 
 - **Methods:**
@@ -58,8 +52,6 @@
   - Explore goroutines and channels through [A Tour of Go’s concurrency section](https://tour.golang.org/concurrency/1).
 - **Practice:**
   - Write a program that utilizes goroutines and channels.
-
-## Evening Session (2 hours)
 
 ### 8. Error Handling and Testing (1 hour)
 
